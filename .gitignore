@@ -1,0 +1,10 @@
+*build*
+*out*
+*debug*
+.cache
+.idea
+.vs
+.vscode
+.cproject
+.project
+.mxproject
